@@ -68,5 +68,6 @@ body {
   }
   body {
     @apply bg-background text-foreground;
+    background: #000000f3;
   }
 }
